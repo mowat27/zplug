@@ -33,5 +33,5 @@ if ! zplug check --verbose; then
     else
         echo
     fi
-fi=
+fi
 ```
